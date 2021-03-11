@@ -1,2 +1,2 @@
 # Final-Axion-cite
-Финальная работа по модулю html+css по проекту Axion
+Верстка сайта по макету https://www.figma.com/file/PUjG1n1YiWzeiq8aEZGb8L0I/Axion?node-id=0%3A1
